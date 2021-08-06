@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        Death Grips Guillotine Sound Pack
+// @name        Lichess Death Grips Guillotine Sound Pack
 // @namespace   Cole Milne (The Milne Empire)
 // @description YUH!
 // @include     https://*.lichess.org/*
